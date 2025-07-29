@@ -80,24 +80,6 @@ Sou apaixonado por tecnologia e programação. Com formação em Análise e Dese
 
 <img
   align="left"
-  alt="JAVA"
-  title="JAVA"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-
-<img
-  align="left"
-  alt="SPRING"
-  title="SPRING"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-<img
-  align="left"
   alt="ANGULAR"
   title="ANGULAR"
   width="30px"
