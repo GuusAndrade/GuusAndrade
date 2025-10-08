@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Gustavo Andrade
 
-**Desenvolvedor Full Stack Júnior | Java | Spring Boot | React | DDD**
+**Desenvolvedor Full Stack | Java | Spring Boot | React | DDD**
 
 Sou um entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistemas e Pós-Graduação em andamento em Tecnologias Web e Mobile. Minha atuação é dividida entre o desenvolvimento de sistemas Back-End robustos em Java/Spring Boot e a construção de interfaces Front-End intuitivas e otimizadas. Mantenho-me constantemente atualizado sobre novas ferramentas e técnicas para aprimorar minhas habilidades, focando sempre em arquitetura de software (Clean Code e DDD), qualidade e experiência do usuário (UI/UX). 😃
 
