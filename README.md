@@ -6,8 +6,6 @@ Sou um **Engenheiro Full-Stack Mobile** focado na **Entrega Ponta a Ponta (*End-
 
 Minha especialização reside no ecossistema **Dart e Flutter**, construindo soluções nativas (iOS/Android) a partir de um único código. Possuo *ownership* completo sobre a funcionalidade, desde o design da UI até a persistência de dados.
 
-> 🌟 **Diferencial:** Aplicação de padrões de arquitetura (como BLoC e Use Cases) no Mobile e domínio sobre a infraestrutura de Backend (Containers, APIs, Database), resultando em entregas robustas e eficientes.
-
 ### 🤖 Linguagens e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30"/>
