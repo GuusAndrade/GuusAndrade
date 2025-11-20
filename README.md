@@ -1,8 +1,12 @@
 # 👨🏽‍💻 Gustavo Andrade
 
-**Desenvolvedor Full Stack | Java | Spring Boot | React | DDD**
+**Engenheiro FullStack Mobile | Flutter | Dart | APIs | Docker | SQL | Firebase | DDD**
 
-Sou um entusiasta da tecnologia com formação em Análise e Desenvolvimento de Sistemas e Pós-Graduação em andamento em Tecnologias Web e Mobile. Minha atuação é dividida entre o desenvolvimento de sistemas Back-End robustos em Java/Spring Boot e a construção de interfaces Front-End intuitivas e otimizadas. Mantenho-me constantemente atualizado sobre novas ferramentas e técnicas para aprimorar minhas habilidades, focando sempre em arquitetura de software (Clean Code e DDD), qualidade e experiência do usuário (UI/UX). 😃
+Sou um **Engenheiro Full-Stack Mobile** focado na **Entrega Ponta a Ponta (*End-to-End*)** de aplicações móveis de alta qualidade. Minha atuação transita por todo o ciclo de vida do produto, garantindo a performance da UI no Front-End e a escalabilidade das APIs no Back-End.
+
+Minha especialização reside no ecossistema **Dart e Flutter**, construindo soluções nativas (iOS/Android) a partir de um único código. Possuo *ownership* completo sobre a funcionalidade, desde o design da UI até a persistência de dados.
+
+> 🌟 **Diferencial:** Aplicação de padrões de arquitetura (como BLoC e Use Cases) no Mobile e domínio sobre a infraestrutura de Backend (Containers, APIs, Database), resultando em entregas robustas e eficientes.
 
 ### 🤖 Linguagens e Tecnologias
 
