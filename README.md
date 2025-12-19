@@ -1,8 +1,8 @@
 # 👨🏽‍💻 Gustavo Andrade
 
-**Engenheiro FullStack Mobile | Flutter | Dart | APIs | Docker | SQL | Firebase | DDD**
+**Desenvolvedor Mobile | Flutter | Dart | APIs | Docker | SQL | Firebase | DDD**
 
-Sou um **Engenheiro Full-Stack Mobile** focado na **Entrega Ponta a Ponta (*End-to-End*)** de aplicações móveis de alta qualidade. Minha atuação transita por todo o ciclo de vida do produto, garantindo a performance da UI no Front-End e a escalabilidade das APIs no Back-End.
+Sou um **Desenvolvedor Mobile** focado na **Entrega Ponta a Ponta (*End-to-End*)** de aplicações móveis de alta qualidade. Minha atuação transita por todo o ciclo de vida do produto, garantindo a performance da UI no Front-End e a escalabilidade das APIs no Back-End.
 
 Minha especialização reside no ecossistema **Dart e Flutter**, construindo soluções nativas (iOS/Android) a partir de um único código. Possuo *ownership* completo sobre a funcionalidade, desde o design da UI até a persistência de dados.
 
